@@ -24,6 +24,9 @@ Generated end-to-end from the parameter workbook — no manual modelling or edit
 Open a file and choose **View raw** (or the download button) to play it.
 点开文件后选择 **View raw**（或下载按钮）即可播放。
 
+All films: H.264 MP4 · 24 fps · ~6–7.5 Mbps (target 8) · 30 s · no audio — ready to upload.
+所有影片：H.264 MP4 · 24 fps · 码率约 6–7.5 Mbps（目标 8）· 30 秒 · 无声，可直接上传各平台。
+
 ## How it works · 工作原理
 
 Expandable houses are configured, not drawn from scratch. ATLAS treats every design as **data**: walls, openings, rooms, fixtures, structure and services live in one structured workbook, and every deliverable is generated from it.
